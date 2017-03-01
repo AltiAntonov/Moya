@@ -2,6 +2,7 @@
 
 - Bumped minimum version of ReactiveSwift to 1.1
 - Changed use of deprecated `DateSchedulerProtocol` to `DateScheduler`.
+- **Breaking Change**: Added support to get the response (if any) from `MoyaError`.
 
 # 8.0.3
 
