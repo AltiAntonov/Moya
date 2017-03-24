@@ -3,7 +3,9 @@
 - Bumped minimum version of ReactiveSwift to 1.1
 - Changed use of deprecated `DateSchedulerProtocol` to `DateScheduler`.
 - **Breaking Change**: Added support to get the response (if any) from `MoyaError`.
+- **Breaking Change** Added support to get the response (if any) from `MoyaError`.
 - **Breaking Change** Updated `RxMoyaProvider.request` to return a [`Single<Request>`](https://github.com/ReactiveX/RxSwift/pull/1123)
+- Updated the `RxSwift` version requirement to `3.3`.
 
 # 8.0.3
 
